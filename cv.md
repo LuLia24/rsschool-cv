@@ -17,4 +17,4 @@
 
 ### Education
 
-Yandex Practicum web-developer
+web-developer Yandex Practicum
